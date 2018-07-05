@@ -12,9 +12,9 @@ def fourth_challenge
           
         },
         :Mercutio => {
-          :name => 
-          :age =>
-          :attitude =>
+          :name => "Mercutio"
+          :age => "18"
+          :attitude => "hot-headed"
         }
       ]
    }, 
